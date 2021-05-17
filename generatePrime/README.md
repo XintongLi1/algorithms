@@ -1,5 +1,4 @@
 ## Functional Programming in Racket
-
 Generate Prime Numbers Efficiently
 
 Main: `IO.rkt`
